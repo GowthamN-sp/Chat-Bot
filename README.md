@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Gemini Chat — Full Stack AI Chatbot
 
 A production-ready AI chatbot built with **React + FastAPI + Google Gemini**.
@@ -176,3 +177,6 @@ React ChatWindow renders Markdown
 ## 📄 License
 
 MIT — build freely.
+=======
+# react-chatwoot
+>>>>>>> a4b7ae16f59617a58f27809cda59b84a7d97f339
